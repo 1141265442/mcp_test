@@ -1,2 +1,2 @@
 # mcp_test
-Test repository for MCP development
+这是测试文件，即将删除
